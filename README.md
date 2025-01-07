@@ -1,4 +1,4 @@
-<h1 align="center">Wech 🤙</h1>
+<h1 align="center"> ⭐ H4FIDE ⭐ </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Hey+there!;See+what+I+have+been+working+on!" alt="Typing SVG" />
