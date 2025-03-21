@@ -22,6 +22,8 @@
 <dev align="center">
   <a href="https://t.me/h4fide">
     <img src="https://img.shields.io/badge/Telegram-2196F3?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> 
+  </a> <br>
+  <a href="https://discord.com/channels/#">
+    <img src="https://img.shields.io/badge/Discord-h4fidd-fff?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289da" alt="Discord" />
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Discord-h4fide-fff?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</div>
